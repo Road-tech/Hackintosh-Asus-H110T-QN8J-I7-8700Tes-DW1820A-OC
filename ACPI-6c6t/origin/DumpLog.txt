@@ -1,0 +1,162 @@
+39:912  0:051  Found BIOS RSDP at F0010
+39:912  0:000  Printing ACPI tables from RSDP F0010 ...
+39:912  0:000   F0010: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+39:912  0:000    (Xsdt: B3D850A8, Rsdt: B3D85028)
+39:912  0:000    B3D850A8: 'XSDT', 'A M I', Rev: 1, Len: 196
+39:912  0:000    B3D85028: 'RSDT', 'A M I', Rev: 1, Len: 116
+39:912  0:000    Tables in Xsdt: 20
+39:912  0:000    0. B3DAE4C0: 'FACP', 'A M I', Rev: 6, Len: 276
+39:912  0:000        (Dsdt: B3D85200, Facs: C2D18C40, XDsdt: B3D85200, XFacs: 0)
+39:912  0:000        B3D85200: 'DSDT', 'A M I', Rev: 2, Len: 168638
+39:918  0:005        C2D18C40: 'FACS', Ver: 2, Len: 64
+39:918  0:000    1. B3DAE5D8: 'APIC', 'A M I', Rev: 3, Len: 160
+39:918  0:000    2. B3DAE678: 'FPDT', 'A M I', Rev: 1, Len: 68
+39:918  0:000    3. B3DBAB90: 'BGRT', 'A M I', Rev: 1, Len: 56
+39:918  0:000    4. B3DAE718: 'MCFG', 'A M I', Rev: 1, Len: 60
+39:918  0:000    5. B3DAE758: 'SSDT', 'SataTabl', Rev: 1, Len: 912
+39:918  0:000    6. B3DAEAE8: 'FIDT', 'A M I', Rev: 1, Len: 156
+39:918  0:000    7. B3DAEB88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12667
+39:918  0:000    8. B3DB1D08: 'SSDT', 'PegSsdt', Rev: 2, Len: 9540
+39:918  0:000    9. B3DB4250: 'HPET', 'KBL', Rev: 1, Len: 56
+39:918  0:000    10. B3DB4288: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 4598
+39:918  0:000    11. B3DB5480: 'SSDT', 'xh_rvp08', Rev: 2, Len: 2841
+39:918  0:000    12. B3DB5FA0: 'UEFI', 'EDK2', Rev: 1, Len: 66
+39:918  0:000    13. B3DB5FE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6061
+39:918  0:000    14. B3DB7798: 'LPIT', 'KBL', Rev: 1, Len: 148
+39:918  0:000    15. B3DB7830: 'WSMT', 'KBL', Rev: 1, Len: 40
+39:918  0:000    16. B3DB7858: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+39:918  0:000    17. B3DB7AF8: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+39:918  0:000    18. B3DBAB00: 'DBGP', '', Rev: 1, Len: 52
+39:918  0:000    19. B3DBAB38: 'DBG2', '', Rev: 0, Len: 84
+39:918  0:000    Tables in Rsdt: 20
+39:918  0:000    0. B3D85178: 'FACP', 'A M I', Rev: 2, Len: 132
+39:918  0:000        (Dsdt: B3D85200, Facs: C2D18C00)
+39:918  0:000        B3D85200: 'DSDT', 'A M I', Rev: 2, Len: 168638
+39:924  0:006        C2D18C00: 'FACS', Ver: 0, Len: 64
+39:924  0:000    1. B3DAE5D8: 'APIC', 'A M I', Rev: 3, Len: 160
+39:924  0:000    2. B3DAE678: 'FPDT', 'A M I', Rev: 1, Len: 68
+39:924  0:000    3. B3DBAB90: 'BGRT', 'A M I', Rev: 1, Len: 56
+39:924  0:000    4. B3DAE718: 'MCFG', 'A M I', Rev: 1, Len: 60
+39:924  0:000    5. B3DAE758: 'SSDT', 'SataTabl', Rev: 1, Len: 912
+39:924  0:000    6. B3DAEAE8: 'FIDT', 'A M I', Rev: 1, Len: 156
+39:924  0:000    7. B3DAEB88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12667
+39:924  0:000    8. B3DB1D08: 'SSDT', 'PegSsdt', Rev: 2, Len: 9540
+39:924  0:000    9. B3DB4250: 'HPET', 'KBL', Rev: 1, Len: 56
+39:924  0:000    10. B3DB4288: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 4598
+39:924  0:000    11. B3DB5480: 'SSDT', 'xh_rvp08', Rev: 2, Len: 2841
+39:924  0:000    12. B3DB5FA0: 'UEFI', 'EDK2', Rev: 1, Len: 66
+39:924  0:000    13. B3DB5FE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6061
+39:924  0:000    14. B3DB7798: 'LPIT', 'KBL', Rev: 1, Len: 148
+39:924  0:000    15. B3DB7830: 'WSMT', 'KBL', Rev: 1, Len: 40
+39:924  0:000    16. B3DB7858: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+39:924  0:000    17. B3DB7AF8: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+39:924  0:000    18. B3DBAB00: 'DBGP', '', Rev: 1, Len: 52
+39:924  0:000    19. B3DBAB38: 'DBG2', '', Rev: 0, Len: 84
+39:924  0:000  Found UEFI Acpi 2.0 RSDP at B3D85000
+39:924  0:000  Saving ACPI tables from RSDP B3D85000 to EFI\CLOVER\ACPI\origin ...
+39:924  0:000   B3D85000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+39:924  0:000    (Xsdt: B3D850A8, Rsdt: B3D85028)
+39:924  0:000    B3D850A8: 'XSDT', 'A M I', Rev: 1, Len: 196
+39:924  0:000    B3D85028: 'RSDT', 'A M I', Rev: 1, Len: 116
+39:924  0:000    Tables in Xsdt: 20
+39:924  0:000    0. B3DAE4C0: 'FACP', 'A M I', Rev: 6, Len: 276
+39:924  0:000        (Dsdt: B3D85200, Facs: C2D18C40, XDsdt: B3D85200, XFacs: 0)
+39:924  0:000        B3D85200: 'DSDT', 'A M I', Rev: 2, Len: 168638
+39:930  0:005        C2D18C40: 'FACS', Ver: 2, Len: 64
+39:930  0:000    1. B3DAE5D8: 'APIC', 'A M I', Rev: 3, Len: 160
+39:930  0:000    2. B3DAE678: 'FPDT', 'A M I', Rev: 1, Len: 68
+39:930  0:000    3. B3DBAB90: 'BGRT', 'A M I', Rev: 1, Len: 56
+39:930  0:000    4. B3DAE718: 'MCFG', 'A M I', Rev: 1, Len: 60
+39:930  0:000    5. B3DAE758: 'SSDT', 'SataTabl', Rev: 1, Len: 912
+39:930  0:000    6. B3DAEAE8: 'FIDT', 'A M I', Rev: 1, Len: 156
+39:930  0:000    7. B3DAEB88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12667
+39:930  0:000    8. B3DB1D08: 'SSDT', 'PegSsdt', Rev: 2, Len: 9540
+39:930  0:000    9. B3DB4250: 'HPET', 'KBL', Rev: 1, Len: 56
+39:930  0:000    10. B3DB4288: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 4598
+39:930  0:000    11. B3DB5480: 'SSDT', 'xh_rvp08', Rev: 2, Len: 2841
+39:930  0:000    12. B3DB5FA0: 'UEFI', 'EDK2', Rev: 1, Len: 66
+39:930  0:000    13. B3DB5FE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6061
+39:930  0:000    14. B3DB7798: 'LPIT', 'KBL', Rev: 1, Len: 148
+39:930  0:000    15. B3DB7830: 'WSMT', 'KBL', Rev: 1, Len: 40
+39:930  0:000    16. B3DB7858: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+39:930  0:000    17. B3DB7AF8: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+39:930  0:000    18. B3DBAB00: 'DBGP', '', Rev: 1, Len: 52
+39:930  0:000    19. B3DBAB38: 'DBG2', '', Rev: 0, Len: 84
+39:930  0:000    Tables in Rsdt: 20
+39:930  0:000    0. B3D85178: 'FACP', 'A M I', Rev: 2, Len: 132
+39:930  0:000        (Dsdt: B3D85200, Facs: C2D18C00)
+39:930  0:000        B3D85200: 'DSDT', 'A M I', Rev: 2, Len: 168638
+39:936  0:005        C2D18C00: 'FACS', Ver: 0, Len: 64
+39:936  0:000    1. B3DAE5D8: 'APIC', 'A M I', Rev: 3, Len: 160
+39:936  0:000    2. B3DAE678: 'FPDT', 'A M I', Rev: 1, Len: 68
+39:936  0:000    3. B3DBAB90: 'BGRT', 'A M I', Rev: 1, Len: 56
+39:936  0:000    4. B3DAE718: 'MCFG', 'A M I', Rev: 1, Len: 60
+39:936  0:000    5. B3DAE758: 'SSDT', 'SataTabl', Rev: 1, Len: 912
+39:936  0:000    6. B3DAEAE8: 'FIDT', 'A M I', Rev: 1, Len: 156
+39:936  0:000    7. B3DAEB88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12667
+39:936  0:000    8. B3DB1D08: 'SSDT', 'PegSsdt', Rev: 2, Len: 9540
+39:936  0:000    9. B3DB4250: 'HPET', 'KBL', Rev: 1, Len: 56
+39:936  0:000    10. B3DB4288: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 4598
+39:936  0:000    11. B3DB5480: 'SSDT', 'xh_rvp08', Rev: 2, Len: 2841
+39:936  0:000    12. B3DB5FA0: 'UEFI', 'EDK2', Rev: 1, Len: 66
+39:936  0:000    13. B3DB5FE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6061
+39:936  0:000    14. B3DB7798: 'LPIT', 'KBL', Rev: 1, Len: 148
+39:936  0:000    15. B3DB7830: 'WSMT', 'KBL', Rev: 1, Len: 40
+39:936  0:000    16. B3DB7858: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+39:936  0:000    17. B3DB7AF8: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+39:936  0:000    18. B3DBAB00: 'DBGP', '', Rev: 1, Len: 52
+39:936  0:000    19. B3DBAB38: 'DBG2', '', Rev: 0, Len: 84
+39:936  0:000  Found UEFI Acpi 1.0 RSDP at B3D85000
+39:936  0:000  Printing ACPI tables from RSDP B3D85000 ...
+39:936  0:000   B3D85000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+39:936  0:000    (Xsdt: B3D850A8, Rsdt: B3D85028)
+39:936  0:000    B3D850A8: 'XSDT', 'A M I', Rev: 1, Len: 196
+39:936  0:000    B3D85028: 'RSDT', 'A M I', Rev: 1, Len: 116
+39:936  0:000    Tables in Xsdt: 20
+39:936  0:000    0. B3DAE4C0: 'FACP', 'A M I', Rev: 6, Len: 276
+39:936  0:000        (Dsdt: B3D85200, Facs: C2D18C40, XDsdt: B3D85200, XFacs: 0)
+39:936  0:000        B3D85200: 'DSDT', 'A M I', Rev: 2, Len: 168638
+39:942  0:006        C2D18C40: 'FACS', Ver: 2, Len: 64
+39:942  0:000    1. B3DAE5D8: 'APIC', 'A M I', Rev: 3, Len: 160
+39:942  0:000    2. B3DAE678: 'FPDT', 'A M I', Rev: 1, Len: 68
+39:942  0:000    3. B3DBAB90: 'BGRT', 'A M I', Rev: 1, Len: 56
+39:942  0:000    4. B3DAE718: 'MCFG', 'A M I', Rev: 1, Len: 60
+39:942  0:000    5. B3DAE758: 'SSDT', 'SataTabl', Rev: 1, Len: 912
+39:942  0:000    6. B3DAEAE8: 'FIDT', 'A M I', Rev: 1, Len: 156
+39:942  0:000    7. B3DAEB88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12667
+39:942  0:000    8. B3DB1D08: 'SSDT', 'PegSsdt', Rev: 2, Len: 9540
+39:942  0:000    9. B3DB4250: 'HPET', 'KBL', Rev: 1, Len: 56
+39:942  0:000    10. B3DB4288: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 4598
+39:942  0:000    11. B3DB5480: 'SSDT', 'xh_rvp08', Rev: 2, Len: 2841
+39:942  0:000    12. B3DB5FA0: 'UEFI', 'EDK2', Rev: 1, Len: 66
+39:942  0:000    13. B3DB5FE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6061
+39:942  0:000    14. B3DB7798: 'LPIT', 'KBL', Rev: 1, Len: 148
+39:942  0:000    15. B3DB7830: 'WSMT', 'KBL', Rev: 1, Len: 40
+39:942  0:000    16. B3DB7858: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+39:942  0:000    17. B3DB7AF8: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+39:942  0:000    18. B3DBAB00: 'DBGP', '', Rev: 1, Len: 52
+39:942  0:000    19. B3DBAB38: 'DBG2', '', Rev: 0, Len: 84
+39:942  0:000    Tables in Rsdt: 20
+39:942  0:000    0. B3D85178: 'FACP', 'A M I', Rev: 2, Len: 132
+39:942  0:000        (Dsdt: B3D85200, Facs: C2D18C00)
+39:942  0:000        B3D85200: 'DSDT', 'A M I', Rev: 2, Len: 168638
+39:948  0:005        C2D18C00: 'FACS', Ver: 0, Len: 64
+39:948  0:000    1. B3DAE5D8: 'APIC', 'A M I', Rev: 3, Len: 160
+39:948  0:000    2. B3DAE678: 'FPDT', 'A M I', Rev: 1, Len: 68
+39:948  0:000    3. B3DBAB90: 'BGRT', 'A M I', Rev: 1, Len: 56
+39:948  0:000    4. B3DAE718: 'MCFG', 'A M I', Rev: 1, Len: 60
+39:948  0:000    5. B3DAE758: 'SSDT', 'SataTabl', Rev: 1, Len: 912
+39:948  0:000    6. B3DAEAE8: 'FIDT', 'A M I', Rev: 1, Len: 156
+39:948  0:000    7. B3DAEB88: 'SSDT', 'SaSsdt', Rev: 2, Len: 12667
+39:948  0:000    8. B3DB1D08: 'SSDT', 'PegSsdt', Rev: 2, Len: 9540
+39:948  0:000    9. B3DB4250: 'HPET', 'KBL', Rev: 1, Len: 56
+39:948  0:000    10. B3DB4288: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 4598
+39:948  0:000    11. B3DB5480: 'SSDT', 'xh_rvp08', Rev: 2, Len: 2841
+39:948  0:000    12. B3DB5FA0: 'UEFI', 'EDK2', Rev: 1, Len: 66
+39:948  0:000    13. B3DB5FE8: 'SSDT', 'CpuSsdt', Rev: 2, Len: 6061
+39:948  0:000    14. B3DB7798: 'LPIT', 'KBL', Rev: 1, Len: 148
+39:948  0:000    15. B3DB7830: 'WSMT', 'KBL', Rev: 1, Len: 40
+39:948  0:000    16. B3DB7858: 'SSDT', 'sensrhub', Rev: 2, Len: 671
+39:948  0:000    17. B3DB7AF8: 'SSDT', 'PtidDevc', Rev: 2, Len: 12290
+39:948  0:000    18. B3DBAB00: 'DBGP', '', Rev: 1, Len: 52
+39:948  0:000    19. B3DBAB38: 'DBG2', '', Rev: 0, Len: 84

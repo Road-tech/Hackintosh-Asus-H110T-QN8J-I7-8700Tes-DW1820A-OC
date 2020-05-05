@@ -1,0 +1,168 @@
+19:463  0:029  Found BIOS RSDP at F0010
+19:463  0:000  Printing ACPI tables from RSDP F0010 ...
+19:463  0:000   F0010: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+19:463  0:000    (Xsdt: BD4680A8, Rsdt: BD468028)
+19:463  0:000    BD4680A8: 'XSDT', 'PE_SC3', Rev: 1, Len: 204
+19:463  0:000    BD468028: 'RSDT', 'PE_SC3', Rev: 1, Len: 120
+19:463  0:000    Tables in Xsdt: 21
+19:463  0:000    0. BD48BFB8: 'FACP', 'A M I', Rev: 5, Len: 268
+19:463  0:000        (Dsdt: BD468200, Facs: C4D23F80, XDsdt: BD468200, XFacs: 0)
+19:463  0:000        BD468200: 'DSDT', 'A M I', Rev: 2, Len: 146871
+19:467  0:004        C4D23F80: 'FACS', Ver: 2, Len: 64
+19:467  0:000    1. BD48C0C8: 'APIC', 'A M I', Rev: 3, Len: 244
+19:467  0:000    2. BD48C1C0: 'FPDT', 'A M I', Rev: 1, Len: 68
+19:467  0:000    3. BD48C208: 'FIDT', 'A M I', Rev: 1, Len: 156
+19:467  0:000    4. BD48C2A8: 'MCFG', 'A M I', Rev: 1, Len: 60
+19:467  0:000    5. BD48C2E8: 'HPET', 'A M I', Rev: 1, Len: 56
+19:467  0:000    6. BD48C320: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+19:467  0:000    7. BD48C690: 'LPIT', 'SKL', Rev: 1, Len: 148
+19:467  0:000    8. BD48C728: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+19:467  0:000    9. BD48C970: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+19:467  0:000    10. BD48F520: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3043
+19:467  0:000    11. BD490108: 'SSDT', 'zpodd', Rev: 2, Len: 1187
+19:467  0:000    12. BD4905B0: 'DBGP', '', Rev: 1, Len: 52
+19:467  0:000    13. BD4905E8: 'DBG2', '', Rev: 0, Len: 84
+19:467  0:000    14. BD490640: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1797
+19:467  0:000    15. BD490D48: 'SSDT', 'SaSsdt', Rev: 2, Len: 21651
+19:467  0:000    16. BD4961E0: 'UEFI', '', Rev: 1, Len: 66
+19:467  0:000    17. BD496228: 'SSDT', 'CpuSsdt', Rev: 2, Len: 5867
+19:467  0:000    18. BD497918: 'MSDM', 'PE_SC3', Rev: 1, Len: 85
+19:467  0:000    19. BD497970: 'SLIC', 'PE_SC3', Rev: 1, Len: 374
+19:467  0:000    20. BD497AE8: 'BGRT', 'A M I', Rev: 1, Len: 56
+19:467  0:000    Tables in Rsdt: 21
+19:467  0:000    0. BD468178: 'FACP', 'A M I', Rev: 2, Len: 132
+19:467  0:000        (Dsdt: BD468200, Facs: C4D23F40)
+19:467  0:000        BD468200: 'DSDT', 'A M I', Rev: 2, Len: 146871
+19:472  0:004        C4D23F40: 'FACS', Ver: 0, Len: 64
+19:472  0:000    1. BD48C0C8: 'APIC', 'A M I', Rev: 3, Len: 244
+19:472  0:000    2. BD48C1C0: 'FPDT', 'A M I', Rev: 1, Len: 68
+19:472  0:000    3. BD48C208: 'FIDT', 'A M I', Rev: 1, Len: 156
+19:472  0:000    4. BD48C2A8: 'MCFG', 'A M I', Rev: 1, Len: 60
+19:472  0:000    5. BD48C2E8: 'HPET', 'A M I', Rev: 1, Len: 56
+19:472  0:000    6. BD48C320: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+19:472  0:000    7. BD48C690: 'LPIT', 'SKL', Rev: 1, Len: 148
+19:472  0:000    8. BD48C728: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+19:472  0:000    9. BD48C970: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+19:472  0:000    10. BD48F520: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3043
+19:472  0:000    11. BD490108: 'SSDT', 'zpodd', Rev: 2, Len: 1187
+19:472  0:000    12. BD4905B0: 'DBGP', '', Rev: 1, Len: 52
+19:472  0:000    13. BD4905E8: 'DBG2', '', Rev: 0, Len: 84
+19:472  0:000    14. BD490640: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1797
+19:472  0:000    15. BD490D48: 'SSDT', 'SaSsdt', Rev: 2, Len: 21651
+19:472  0:000    16. BD4961E0: 'UEFI', '', Rev: 1, Len: 66
+19:472  0:000    17. BD496228: 'SSDT', 'CpuSsdt', Rev: 2, Len: 5867
+19:472  0:000    18. BD497918: 'MSDM', 'PE_SC3', Rev: 1, Len: 85
+19:472  0:000    19. BD497970: 'SLIC', 'PE_SC3', Rev: 1, Len: 374
+19:472  0:000    20. BD497AE8: 'BGRT', 'A M I', Rev: 1, Len: 56
+19:472  0:000  Found UEFI Acpi 2.0 RSDP at BD468000
+19:472  0:000  Saving ACPI tables from RSDP BD468000 to EFI\CLOVER\ACPI\origin ...
+19:472  0:000   BD468000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36 -> RSDP.aml
+19:505  0:033    (Xsdt: BD4680A8, Rsdt: BD468028)
+19:505  0:000    BD4680A8: 'XSDT', 'PE_SC3', Rev: 1, Len: 204 -> XSDT.aml
+19:537  0:032    BD468028: 'RSDT', 'PE_SC3', Rev: 1, Len: 120 -> RSDT.aml
+19:568  0:030    Tables in Xsdt: 21
+19:568  0:000    0. BD48BFB8: 'FACP', 'A M I', Rev: 5, Len: 268 -> FACP.aml
+19:601  0:033        (Dsdt: BD468200, Facs: C4D23F80, XDsdt: BD468200, XFacs: 0)
+19:601  0:000        BD468200: 'DSDT', 'A M I', Rev: 2, Len: 146871
+19:605  0:004        C4D23F80: 'FACS', Ver: 2, Len: 64 -> FACS.aml
+19:633  0:027    1. BD48C0C8: 'APIC', 'A M I', Rev: 3, Len: 244
+19:633  0:000    2. BD48C1C0: 'FPDT', 'A M I', Rev: 1, Len: 68
+19:633  0:000    3. BD48C208: 'FIDT', 'A M I', Rev: 1, Len: 156
+19:633  0:000    4. BD48C2A8: 'MCFG', 'A M I', Rev: 1, Len: 60
+19:633  0:000    5. BD48C2E8: 'HPET', 'A M I', Rev: 1, Len: 56
+19:633  0:000    6. BD48C320: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+19:633  0:000    7. BD48C690: 'LPIT', 'SKL', Rev: 1, Len: 148
+19:633  0:000    8. BD48C728: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+19:633  0:000    9. BD48C970: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+19:633  0:000    10. BD48F520: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3043
+19:633  0:000    11. BD490108: 'SSDT', 'zpodd', Rev: 2, Len: 1187
+19:633  0:000    12. BD4905B0: 'DBGP', '', Rev: 1, Len: 52
+19:633  0:000    13. BD4905E8: 'DBG2', '', Rev: 0, Len: 84
+19:633  0:000    14. BD490640: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1797
+19:633  0:000    15. BD490D48: 'SSDT', 'SaSsdt', Rev: 2, Len: 21651
+19:633  0:000    16. BD4961E0: 'UEFI', '', Rev: 1, Len: 66
+19:633  0:000    17. BD496228: 'SSDT', 'CpuSsdt', Rev: 2, Len: 5867
+19:633  0:000    18. BD497918: 'MSDM', 'PE_SC3', Rev: 1, Len: 85
+19:633  0:000    19. BD497970: 'SLIC', 'PE_SC3', Rev: 1, Len: 374
+19:633  0:000    20. BD497AE8: 'BGRT', 'A M I', Rev: 1, Len: 56
+19:633  0:000    Tables in Rsdt: 21
+19:633  0:000    0. BD468178: 'FACP', 'A M I', Rev: 2, Len: 132
+19:633  0:000        (Dsdt: BD468200, Facs: C4D23F40)
+19:633  0:000        BD468200: 'DSDT', 'A M I', Rev: 2, Len: 146871
+19:637  0:004        C4D23F40: 'FACS', Ver: 0, Len: 64
+19:637  0:000    1. BD48C0C8: 'APIC', 'A M I', Rev: 3, Len: 244
+19:637  0:000    2. BD48C1C0: 'FPDT', 'A M I', Rev: 1, Len: 68
+19:637  0:000    3. BD48C208: 'FIDT', 'A M I', Rev: 1, Len: 156
+19:637  0:000    4. BD48C2A8: 'MCFG', 'A M I', Rev: 1, Len: 60
+19:637  0:000    5. BD48C2E8: 'HPET', 'A M I', Rev: 1, Len: 56
+19:637  0:000    6. BD48C320: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+19:637  0:000    7. BD48C690: 'LPIT', 'SKL', Rev: 1, Len: 148
+19:637  0:000    8. BD48C728: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+19:637  0:000    9. BD48C970: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+19:637  0:000    10. BD48F520: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3043
+19:637  0:000    11. BD490108: 'SSDT', 'zpodd', Rev: 2, Len: 1187
+19:637  0:000    12. BD4905B0: 'DBGP', '', Rev: 1, Len: 52
+19:637  0:000    13. BD4905E8: 'DBG2', '', Rev: 0, Len: 84
+19:637  0:000    14. BD490640: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1797
+19:637  0:000    15. BD490D48: 'SSDT', 'SaSsdt', Rev: 2, Len: 21651
+19:637  0:000    16. BD4961E0: 'UEFI', '', Rev: 1, Len: 66
+19:637  0:000    17. BD496228: 'SSDT', 'CpuSsdt', Rev: 2, Len: 5867
+19:637  0:000    18. BD497918: 'MSDM', 'PE_SC3', Rev: 1, Len: 85
+19:637  0:000    19. BD497970: 'SLIC', 'PE_SC3', Rev: 1, Len: 374
+19:637  0:000    20. BD497AE8: 'BGRT', 'A M I', Rev: 1, Len: 56
+19:637  0:000  Found UEFI Acpi 1.0 RSDP at BD468000
+19:637  0:000  Printing ACPI tables from RSDP BD468000 ...
+19:637  0:000   BD468000: 'RSD PTR ', Rev: 2 (Acpi 2.0 or newer), Len: 36
+19:637  0:000    (Xsdt: BD4680A8, Rsdt: BD468028)
+19:637  0:000    BD4680A8: 'XSDT', 'PE_SC3', Rev: 1, Len: 204
+19:637  0:000    BD468028: 'RSDT', 'PE_SC3', Rev: 1, Len: 120
+19:637  0:000    Tables in Xsdt: 21
+19:637  0:000    0. BD48BFB8: 'FACP', 'A M I', Rev: 5, Len: 268
+19:637  0:000        (Dsdt: BD468200, Facs: C4D23F80, XDsdt: BD468200, XFacs: 0)
+19:637  0:000        BD468200: 'DSDT', 'A M I', Rev: 2, Len: 146871
+19:641  0:004        C4D23F80: 'FACS', Ver: 2, Len: 64
+19:641  0:000    1. BD48C0C8: 'APIC', 'A M I', Rev: 3, Len: 244
+19:641  0:000    2. BD48C1C0: 'FPDT', 'A M I', Rev: 1, Len: 68
+19:641  0:000    3. BD48C208: 'FIDT', 'A M I', Rev: 1, Len: 156
+19:641  0:000    4. BD48C2A8: 'MCFG', 'A M I', Rev: 1, Len: 60
+19:641  0:000    5. BD48C2E8: 'HPET', 'A M I', Rev: 1, Len: 56
+19:641  0:000    6. BD48C320: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+19:641  0:000    7. BD48C690: 'LPIT', 'SKL', Rev: 1, Len: 148
+19:641  0:000    8. BD48C728: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+19:641  0:000    9. BD48C970: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+19:641  0:000    10. BD48F520: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3043
+19:641  0:000    11. BD490108: 'SSDT', 'zpodd', Rev: 2, Len: 1187
+19:641  0:000    12. BD4905B0: 'DBGP', '', Rev: 1, Len: 52
+19:641  0:000    13. BD4905E8: 'DBG2', '', Rev: 0, Len: 84
+19:641  0:000    14. BD490640: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1797
+19:641  0:000    15. BD490D48: 'SSDT', 'SaSsdt', Rev: 2, Len: 21651
+19:641  0:000    16. BD4961E0: 'UEFI', '', Rev: 1, Len: 66
+19:641  0:000    17. BD496228: 'SSDT', 'CpuSsdt', Rev: 2, Len: 5867
+19:641  0:000    18. BD497918: 'MSDM', 'PE_SC3', Rev: 1, Len: 85
+19:641  0:000    19. BD497970: 'SLIC', 'PE_SC3', Rev: 1, Len: 374
+19:641  0:000    20. BD497AE8: 'BGRT', 'A M I', Rev: 1, Len: 56
+19:641  0:000    Tables in Rsdt: 21
+19:641  0:000    0. BD468178: 'FACP', 'A M I', Rev: 2, Len: 132
+19:641  0:000        (Dsdt: BD468200, Facs: C4D23F40)
+19:641  0:000        BD468200: 'DSDT', 'A M I', Rev: 2, Len: 146871
+19:646  0:004        C4D23F40: 'FACS', Ver: 0, Len: 64
+19:646  0:000    1. BD48C0C8: 'APIC', 'A M I', Rev: 3, Len: 244
+19:646  0:000    2. BD48C1C0: 'FPDT', 'A M I', Rev: 1, Len: 68
+19:646  0:000    3. BD48C208: 'FIDT', 'A M I', Rev: 1, Len: 156
+19:646  0:000    4. BD48C2A8: 'MCFG', 'A M I', Rev: 1, Len: 60
+19:646  0:000    5. BD48C2E8: 'HPET', 'A M I', Rev: 1, Len: 56
+19:646  0:000    6. BD48C320: 'SSDT', 'SataTabl', Rev: 1, Len: 877
+19:646  0:000    7. BD48C690: 'LPIT', 'SKL', Rev: 1, Len: 148
+19:646  0:000    8. BD48C728: 'SSDT', 'sensrhub', Rev: 2, Len: 584
+19:646  0:000    9. BD48C970: 'SSDT', 'PtidDevc', Rev: 2, Len: 11182
+19:646  0:000    10. BD48F520: 'SSDT', 'Ther_Rvp', Rev: 2, Len: 3043
+19:646  0:000    11. BD490108: 'SSDT', 'zpodd', Rev: 2, Len: 1187
+19:646  0:000    12. BD4905B0: 'DBGP', '', Rev: 1, Len: 52
+19:646  0:000    13. BD4905E8: 'DBG2', '', Rev: 0, Len: 84
+19:646  0:000    14. BD490640: 'SSDT', 'xh_rvp08', Rev: 2, Len: 1797
+19:646  0:000    15. BD490D48: 'SSDT', 'SaSsdt', Rev: 2, Len: 21651
+19:646  0:000    16. BD4961E0: 'UEFI', '', Rev: 1, Len: 66
+19:646  0:000    17. BD496228: 'SSDT', 'CpuSsdt', Rev: 2, Len: 5867
+19:646  0:000    18. BD497918: 'MSDM', 'PE_SC3', Rev: 1, Len: 85
+19:646  0:000    19. BD497970: 'SLIC', 'PE_SC3', Rev: 1, Len: 374
+19:646  0:000    20. BD497AE8: 'BGRT', 'A M I', Rev: 1, Len: 56
