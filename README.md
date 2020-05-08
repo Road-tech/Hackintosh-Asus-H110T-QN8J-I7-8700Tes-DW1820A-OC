@@ -198,7 +198,7 @@ QN8J，35w，6核12线程，1.6GHz默频
 
 # Performance/系统展示
 
-![image](https://github.com/Road00/Hackintosh-AsusH110T-QN8J-I7-8700Tes--DW1820A-Opencore/blob/master/figure/102.jpg?raw=true) 
+![image](https://github.com/Road00/Hackintosh-AsusH110T-QN8J-I7-8700Tes--DW1820A-Opencore/blob/master/figure/102.PNG?raw=true) 
 
 ---
 # Reference/参考
