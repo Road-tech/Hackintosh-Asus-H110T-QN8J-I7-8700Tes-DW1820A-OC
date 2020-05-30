@@ -99,7 +99,7 @@ D大的bios引导报错，我尝试打开了XCHI-hand off，没有效果。我�
 
 * 任意容量的U盘      
 * Rufus  		[下载地址](https://rufus.ie/zh_CN.html)     
-* EEUPDATE 	[下载地址](https://rufus.ie/zh_CN.html)    
+* EEUPDATE 	[下载地址](https://github.com/Road-tech/Hackintosh-AsusH110T-QN8J-I7-8700Tes-DW1820A-Opencore/raw/master/Eeupdate.rar)    
 
 恢复MAC地址流程：
 
