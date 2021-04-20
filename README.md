@@ -2,8 +2,13 @@
 
 ![image](https://github.com/Road00/Hackintosh-AsusH110T-QN8J-I7-8700Tes--DW1820A-Opencore/blob/master/figure/0000.jpg?raw=true)  
 
-**我已经将CPU更换至QNVH（类似于i7 8850H）并已支持到macOS Big sur，同时完美支持16线程。此EFI将停止维护**
+---
+
+**我已经将CPU更换至QNVH（类似于i7 8850H）并已支持到macOS Big sur，同时完美支持16线程。此EFI将停止维护**    
+
 **I already replace my CPU from QN8J（8700Tes）to QNVH（similar as 8850H）and support 16 threads perfectly。 This EFI will stop to upgrade）**
+
+---
 
 **使用EFI前请务必修改三码(SSN,UUID,ROM)**    
 **Please change three system codes (SSN,UUID,ROM) before using this EFI**   
