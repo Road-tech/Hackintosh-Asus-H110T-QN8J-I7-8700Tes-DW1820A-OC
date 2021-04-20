@@ -1,4 +1,4 @@
-# Hackintosh for Asus-H110T, 8100, DW1820A, using Opencore and Support macOS Catalina  
+# Hackintosh for Asus-H110T, QN8J(8700Tes), DW1820A, using Opencore and Support macOS Catalina  
 
 ![image](https://github.com/Road00/Hackintosh-AsusH110T-QN8J-I7-8700Tes--DW1820A-Opencore/blob/master/figure/0000.jpg?raw=true)  
 
@@ -8,6 +8,8 @@
 
 **I already replace my CPU from QN8J（8700Tes）to QNVH（similar as 8850H）and supported to macOS Big sur. The new
 EFI supported the 16 threads perfectly and this EFI will stop to upgrade.**
+
+EFI更新在此[https://github.com/Road-tech/Hackintosh-AsusH110T-QNVH-I7-8850H-DW1820A-OC](https://github.com/Road-tech/Hackintosh-AsusH110T-QNVH-I7-8850H-DW1820A-OC)
 
 ---
 
